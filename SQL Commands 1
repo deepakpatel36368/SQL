@@ -1,0 +1,11 @@
+show databases;
+
+use deepak_db;
+
+show tables;
+
+==========================SELECT STATEMENT =================================================
+
+SELECT * FROM customer;
+
+WHERE 
